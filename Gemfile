@@ -42,8 +42,9 @@ source 'https://rails-assets.org' do
 end
 
 gem 'carrierwave', '~> 1.0'
-gem "fog-aws"
+gem 'fog-aws'
 gem 'pg'
+gem 'figaro'
 
 
 group :development, :test do
