@@ -1,10 +1,8 @@
 Rails.application.routes.draw do
 
-  resources :reviews, except: [:show, :index]
-
   devise_for :users
   resources :restaurants do
-  	resource :reviews, except: [:show, :index]
+  	resources :reviews, except: [:show, :index]
   end
 
   resources :restaurants
