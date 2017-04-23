@@ -1,3 +1,8 @@
+Please visit the app below:
+
+https://yelpdemo-elizak.herokuapp.com/
+
+
 1. Get Up and Running
 
 Course Introduction

@@ -25,9 +25,13 @@
       <% end %>
     </ul>
 
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="text" placeholder="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      <%= form_tag search_restaurants_path, method: :get, class: "form-inline my-2 my-lg-0" do %>
+        <p>
+          <%= text_field_tag :search, params[:search], class: "form-control mr-sm-2" %>
+          <%= submit_tag "Search", name: nil, class: "btn btn-outline-success my-2 my-sm-0" %>
+        </p>
+      <% end %>
+      
     </form>
   </div>
 </nav>
