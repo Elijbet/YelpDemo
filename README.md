@@ -1,6 +1,6 @@
 Yelp Demo App from Baserails: https://yelpdemo-elizak.herokuapp.com/
 -----------------
-Works but needs minor fixing. Need to fix search permissions. Convert ratings to stars.
+Works but needs minor fixing. Need to fix search permissions. 
 -----------------
 
 1. Get Up and Running
