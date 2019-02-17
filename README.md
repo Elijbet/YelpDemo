@@ -1,112 +1,112 @@
-Please visit the app below:
-
-https://yelpdemo-elizak.herokuapp.com/
-
+Yelp Demo App from Baserails: https://yelpdemo-elizak.herokuapp.com/
+-----------------
+Works but needs minor fixing. Need to fix search permissions. Convert ratings to stars.
+-----------------
 
 1. Get Up and Running
 
-Course Introduction
+- Course Introduction
 
-Installation for Mac Users
+- Installation for Mac Users
 
-Installation for Non-Mac Users
+- Installation for Non-Mac Users
 
 2. Create Our Website
 
-Create a New App
+- Create a New App
 
-Add Our First Pages
+- Add Our First Pages
 
-Add Links
+- Add Links
 
-Add Restaurants
-
-Set the Home Page
+- Add Restaurants
+ 
+- Set the Home Page
 
 3. Get Started with Bootstrap
 
-Install Bootstrap
+- Install Bootstrap
 
-Add a Navigation Bar
+- Add a Navigation Bar
 
-Simplify Our Code
+- Simplify Our Code
 
-Build Beautiful Forms
+- Build Beautiful Forms
 
 4. Launch Our Site
 
-Set Up GitHub
+- Set Up GitHub
 
-Save Our Progress
+- Save Our Progress
 
-Deploy on Heroku
+- Deploy on Heroku
 
 5. Add Images
 
-Add the Carrierwave Gem
+- Add the Carrierwave Gem
 
-Image Hosting with Amazon S3
+- Image Hosting with Amazon S3
 
-Protect Our Passwords
+- Protect Our Passwords
 
-Resize Images
+- Resize Images
 
 6. Add Front-End Design
 
-Create a Custom Banner
+- Create a Custom Banner
 
-Format the Navbar
+- Format the Navbar
 
-Add Static Images
+- Add Static Images
 
 7. Add Users
 
-Install Devise
+- Install Devise
 
-Insert Conditional Links
+- Insert Conditional Links
 
-Style Devise Forms
+- Style Devise Forms
 
-Customize Alerts and Error Messages
+- Customize Alerts and Error Messages
 
 8. Add Reviews (I)
 
-Build a Review Scaffold
+- Build a Review Scaffold
 
-Link Reviews to Users
+- Link Reviews to Users
 
-Modify Data with Rails Console
+- Modify Data with Rails Console
 
-Remove Unnecessary URLs
+- Remove Unnecessary URLs
 
 9. Add Reviews (II)
 
-Link Reviews to Restaurants
+- Link Reviews to Restaurants
 
-Nest Resource URLs
+- Nest Resource URLs
 
-Display Reviews
+- Display Reviews
 
 10. Add Star Ratings
 
-Convert Numbers to Stars
+- Convert Numbers to Stars
 
-Layer on More Options
+- Layer on More Options
 
 11. Set Validations and Permissions
 
-Add User Fields
+- Add User Fields
 
-Integrate Names into Reviews
+- Integrate Names into Reviews
 
-Validate Submitted Data
+- Validate Submitted Data
 
-Set User Permissions
+- Set User Permissions
 
 12. Add Bells and Whistles
 
-Embed Google Maps
+- Embed Google Maps
 
-Set Up Search
+- Set Up Search
 
-Course Summary
+- Course Summary
